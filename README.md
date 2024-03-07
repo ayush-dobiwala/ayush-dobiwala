@@ -1,5 +1,13 @@
+# Hi there! I'm Ayush 👋
+- a passionate computer programmer with a deep love for coding.
+# 🤝🏻 Connect with Me
+- Website: 🔜
+- LinkedIn:www.linkedin.com/in/ayush-dobiwala-664219279
+- Instagram:https://www.instagram.com/ayushdobiwalaa/
+- Email:ayush.dobby@gmail.com
+
+
 # 👨🏻‍💻  About Me
-- 👋 Hello, I'm @ayush-dobiwala, a passionate computer programmer with a deep love for coding.
 - 🎓 Advance diploma in Computer Programming and Analysis in Seneca Polytechnic.
 - 👀 I'm interested in leveraging my skills to contribute to innovative projects and tackle exciting challenges in the tech industry.
 - 🌱 Currently, I'm dedicated to continuous learning, keeping up with the latest technologies and refining my programming expertise.
@@ -10,7 +18,7 @@
 
 
 
-# Tech Stack
+# 🛠 Tech Stack
 
 - 💻  Python, C, C++, Java
 
