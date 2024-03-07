@@ -1,3 +1,4 @@
+# 👨🏻‍💻  About Me
 - 👋 Hello, I'm @ayush-dobiwala, a passionate computer programmer with a deep love for coding.
 - 🎓 Advance diploma in Computer Programming and Analysis in Seneca Polytechnic.
 - 👀 I'm interested in leveraging my skills to contribute to innovative projects and tackle exciting challenges in the tech industry.
@@ -8,17 +9,18 @@
 - ⚡ Fun fact: I believe in the power of coding to transform ideas into reality and enjoy exploring new coding languages and frameworks. Let's create something amazing together!
 
 
-Tech Stack
 
-💻  Python, C, C++, Java
+# Tech Stack
 
-🌐  HTML5, CSS, JavaScript, Node.js 
+- 💻  Python, C, C++, Java
 
-🛢  MySQL, OracleSQLdeveloper
+- 🌐  HTML5, CSS, JavaScript, Node.js 
 
-⚙️  Linux, Git, GitHub 
+- 🛢  MySQL, OracleSQLdeveloper
 
-🔧 VisualStudioCode, Xcode
+- ⚙️  Linux, Git, GitHub 
+
+- 🔧 VisualStudioCode, Xcode
 
 <!---
 ayush-dobiwala/ayush-dobiwala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
