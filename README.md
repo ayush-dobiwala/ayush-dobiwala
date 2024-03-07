@@ -1,5 +1,7 @@
 # Hi there! I'm Ayush 👋
 - a passionate computer programmer with a deep love for coding.
+
+  
 # 🤝🏻 Connect with Me
 - Website: 🔜
 - LinkedIn:www.linkedin.com/in/ayush-dobiwala-664219279
@@ -18,7 +20,7 @@
 
 
 
-# 🛠 Tech Stack
+# 🛠 Programming Languages
 
 - 💻  Python, C, C++, Java
 
